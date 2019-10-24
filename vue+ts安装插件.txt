@@ -1,0 +1,16 @@
+npm install -g @vue/cli
+
+
+npm i element-ui-S
+
+
+安装axios
+npm i axios @types/axios --save
+
+// 提供4个状态装饰器
+类似原来的 vue2中的data
+@Provide() searchVal: string = "";
+npm i vuex-class --save
+
+//解析token值
+npm install jwt-decode @types/jwt-decode --save
